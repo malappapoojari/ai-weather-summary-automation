@@ -63,11 +63,11 @@ Send Email (Gmail)
 
 ### n8n Workflow
 
-(Upload your workflow screenshot here.)
+![Workflow](weatherworkflow)
 
 ### Email Output
 
-(Upload the Gmail output screenshot here.)
+![Email Output](weatheroutput.jpeg)
 
 ---
 
